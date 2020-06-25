@@ -1,0 +1,2 @@
+# K-means-Image-Compression-with-Interactive-Controls
+Compression of High Definition images by applying K-Means Clustering on pixels. K-Means Clustering is a sort of unsupervised Machine Learning algorithm. It can be used to separate unlabelled data like image colors into distinct groups. We used K-Means Clustering to perform image compression. We grouped pixels in an image by their similarity in color in order to reduce the total number of colors within that image.
